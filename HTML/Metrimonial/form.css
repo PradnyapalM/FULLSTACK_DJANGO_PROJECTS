@@ -1,0 +1,18 @@
+body{
+    background: blueviolet;
+    color: white;
+}
+
+a{
+    color: white; 
+}
+
+img{
+
+    border: 50px white;
+}
+
+form{
+    text-align: center;
+    border: 20px double rgb(217, 255, 4) ;
+}

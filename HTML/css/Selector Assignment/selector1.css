@@ -1,0 +1,18 @@
+div p {
+    font-size: 25px;
+}
+
+div:nth-of-type(3) p{
+    background: royalblue;
+    color: white;
+}
+
+div:nth-of-type(3) p:nth-of-type(2){
+    border: 5px red solid;
+}
+
+div:nth-of-type(2) em{
+    color: white;
+    font-size: 40px;
+    background: green;
+}

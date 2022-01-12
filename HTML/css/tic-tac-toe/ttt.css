@@ -1,0 +1,33 @@
+td{
+    
+    width: 100px;
+    height: 100px;
+    /* background: purple; */
+
+    
+}
+
+table{
+    margin: auto;
+}
+
+.vertical{
+    border-right:  solid red 5px;
+    border-left:  solid red 5px;
+}
+
+.horizontal{
+    border-top: red solid 5px;
+    border-bottom: red solid 5px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+td:hover{
+
+    border: 1px green solid;
+
+}

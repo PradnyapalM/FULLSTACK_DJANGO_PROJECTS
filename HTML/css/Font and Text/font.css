@@ -1,0 +1,29 @@
+ h1  {
+   width: 300px;
+   border: 50px red solid;
+   padding: 40px;
+   /* margin-top: 100px;
+   margin-left: 200px; */
+
+   margin-bottom: 200px;
+   margin: auto;
+
+   
+   
+   
+    
+}
+
+span{
+    font-size: 2.0em;
+    font-weight: bold;
+    text-decoration: line-through;
+                                                                          
+}
+
+p{
+    font-family: 'Allison', cursive;
+    text-align: left;
+    font-size: 30px;
+    line-height: 1.5;
+}

@@ -1,0 +1,17 @@
+/* *{
+    color: blueviolet;
+} */
+
+a+ul{
+    color: crimson;
+    background-color: yellow;
+}
+
+a[href]{
+    color:violet; 
+}
+
+li:nth-of-type(2){
+    color: white;
+    background-color:royalblue;
+}

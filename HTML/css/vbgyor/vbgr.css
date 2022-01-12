@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    /* margin-top: 20px;
+    margin-left: 200px; */
+    text-transform: uppercase;
+}
+
+.tab{
+    margin: auto;
+}
+
+td{
+    background-color: violet;
+    width: 150px;
+    height: 300px;
+    border: 5px solid white;
+}
+
+#one{
+    background-color: violet;
+}
+#two{
+    background-color: indigo;
+}
+#three{
+    background-color: blue;
+}
+#four{
+    background-color: green;
+}
+#five{
+    background-color: yellow;
+}
+#six{
+    background-color: orange;
+}
+#seven{
+    background-color: red;
+}
